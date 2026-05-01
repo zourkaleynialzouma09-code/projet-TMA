@@ -11,7 +11,7 @@ Le projet consiste à corriger des bugs existants et à améliorer l’expérien
 
 ## Installation
 
-git clone https://github.com/Atsuko-lab/StellaRentouille.git  
+git clone https: https://github.com/zourkaleynialzouma09-code/projet-TMA/
 cd StellaRentouille/StellaRentouille-main/StellaRentouille  
 npm install  
 npm run dev  
